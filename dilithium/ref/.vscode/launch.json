@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/rownak-b/Downloads/exp/dilithium/ref",
+      "program": "/Users/rownak-b/Downloads/exp/dilithium/ref/build/Debug/outDebug"
+    }
+  ]
+}
